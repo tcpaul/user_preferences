@@ -11,6 +11,12 @@ https://github.com/smlombardi/theme-slime
 Vim vscodevim:
 https://github.com/VSCodeVim/Vim
 
+Prettier:
+https://github.com/prettier/prettier-vscode
+
+Clock in status bar:
+https://github.com/compulim/vscode-clock
+
 User preferences:
 cat /home/paul/.config/Code/User/settings.json
 
@@ -21,16 +27,28 @@ cat /home/paul/.config/Code/User/settings.json
     },
     "editor.minimap.maxColumn": 30,
     "editor.minimap.renderCharacters": false,
-
-    "workbench.colorTheme": "Slime",
 "editor.lineNumbers": "off",
  "editor.glyphMargin": false,
+
 "vim.statusBarColorControl": true,
 "vim.statusBarColors": {},
+
+// this is for a caps-lock bound to esc gnome-tweak
+"keyboard.dispatch": "keyCode",
+
+// prettier
+ "editor.formatOnSave": true,
+
+// clock
+"clock.dateFormat": "yyyy-mm-dd' 'ddd' 'HH:MM",
+
+//theme
+    "workbench.colorTheme": "Slime",
+
 "workbench.activityBar.visible": true,
 "workbench.statusBar.visible": true,
 "workbench.colorCustomizations":{
-    "statusBar.background": "#e9f724",
+    "statusBar.background": "#fcff37",
     "panel.background": "#363636",
     "sideBar.background": "#222222"
 }
