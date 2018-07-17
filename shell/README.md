@@ -1,2 +1,2 @@
-# user_preferences
-shell, vsc, vimrc, linux distro etc
+# My shell preferences
+zsh with oh my zsh theme "junkfood"
