@@ -29,7 +29,7 @@ cat /home/paul/.config/Code/User/settings.json
     "editor.minimap.renderCharacters": false,
 "editor.lineNumbers": "off",
  "editor.glyphMargin": false,
-
+"editor.minimap.showSlider": "mouseover",
 "vim.statusBarColorControl": true,
 "vim.statusBarColors": {},
 
