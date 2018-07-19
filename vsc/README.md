@@ -20,6 +20,9 @@ https://github.com/compulim/vscode-clock
 React Native Snippet:
 https://github.com/jundat95/react-native-snippet
 
+Vue 2 snippets:
+https://github.com/hollowtree/vscode-vue-snippets
+
 User preferences:
 cat /home/paul/.config/Code/User/settings.json
 
