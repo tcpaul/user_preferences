@@ -17,6 +17,9 @@ https://github.com/prettier/prettier-vscode
 Clock in status bar:
 https://github.com/compulim/vscode-clock
 
+Import cost:
+https://github.com/wix/import-cost
+
 React Native Snippet:
 https://github.com/jundat95/react-native-snippet
 
