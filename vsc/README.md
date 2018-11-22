@@ -1,10 +1,12 @@
-# VSC tricks
+# VSC
 
+## issues
 For some reason vsc has to "watch" lots of files so it asks to increase that number
 and on Arch that is done like this: 
 echo fs.inotify.max_user_watches=524288 | sudo tee /etc/sysctl.d/40-max-user-watches.conf && sudo sysctl --system
 source: https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers
 
+## "extensions"
 Slime theme:
 https://github.com/smlombardi/theme-slime
 
@@ -23,8 +25,17 @@ https://github.com/wix/import-cost
 React Native Snippet:
 https://github.com/jundat95/react-native-snippet
 
+Markdown Preview Enhanced:
+https://github.com/shd101wyy/vscode-markdown-preview-enhanced
+
+### optional
+
 Vue 2 snippets:
 https://github.com/hollowtree/vscode-vue-snippets
+
+
+settings.json
+----------------
 
 User preferences:
 cat /home/paul/.config/Code/User/settings.json
