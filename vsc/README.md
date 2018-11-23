@@ -25,9 +25,11 @@ https://github.com/wix/import-cost
 React Native Snippet:
 https://github.com/jundat95/react-native-snippet
 
-Markdown Preview Enhanced:
-https://github.com/shd101wyy/vscode-markdown-preview-enhanced
-
+Markdown Preview Github Styling:
+https://github.com/mjbvz/vscode-github-markdown-preview-style
++
+Github Markdown Preview:
+https://github.com/mjbvz/vscode-github-markdown-preview
 ### optional
 
 Vue 2 snippets:
