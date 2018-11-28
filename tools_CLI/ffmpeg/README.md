@@ -2,7 +2,9 @@
 
 https://ffmpeg.org/
 
-## Convert mp4 to gif CLI
+## Examples
+
+### Convert mp4 to gif CLI
 
 ```zsh
 mkdir frames
