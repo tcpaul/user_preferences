@@ -1,6 +1,6 @@
 # GNOME
 
-MAnjaro GNOME
+Manjaro GNOME
 
 ## GNOME tweaks
 
