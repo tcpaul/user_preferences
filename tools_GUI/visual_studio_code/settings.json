@@ -1,0 +1,35 @@
+{
+  "clock.dateFormat": "yyyy-mm-dd' 'ddd' 'HH:MM",
+
+  "editor.folding": false,
+  "editor.formatOnSave": true,
+  "editor.glyphMargin": false,
+  "editor.lineNumbers": "on",
+  "editor.minimap.maxColumn": 30,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "mouseover",
+  "editor.tabSize": 2,
+
+  "gitlens.advanced.messages": { "suppressShowKeyBindingsNotice": true },
+
+  "keyboard.dispatch": "keyCode",
+
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.shell.linux": "/bin/zsh",
+
+  "todohighlight.toggleURI": true,
+  "todohighlight.include": ["**/*.md"],
+
+  "vim.statusBarColorControl": true,
+
+  "workbench.colorTheme": "Slime",
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  "workbench.colorCustomizations": {
+    "panel.background": "#363636",
+    "sideBar.background": "#222222",
+    "statusBar.background": "#5f00af",
+    "statusBar.debuggingBackground": "#5f00af",
+    "statusBar.noFolderBackground": "#5f00af"
+  }
+}
